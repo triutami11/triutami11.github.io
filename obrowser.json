@@ -2,5 +2,6 @@
 	"meta": {
 		"code" : 200,
 		"confirm" : "success"
-	},"data": "106"
+	},
+	"version_code": 106
 }
